@@ -7,3 +7,12 @@ C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consul
 C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.pdb
 C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.dll
 C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.pdb
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.deps.json
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.dll
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.pdb
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.AssemblyInfoInputs.cache
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.AssemblyInfo.cs
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.dll
+\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.pdb

@@ -21,6 +21,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\bin\Release\netstandard2.0\Consulta.CNPJ.dll" target="lib\netstandard2.0\Consulta.CNPJ.dll" />
+    <file src="\\Mac\Dropbox\Desenvolvimento\GitHub\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.dll" target="lib\netstandard2.0\Consulta.CNPJ.dll" />
   </files>
 </package>

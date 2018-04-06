@@ -19,6 +19,7 @@
     <PackageReleaseNotes>Initial Version</PackageReleaseNotes>
     <PackageProjectUrl>https://github.com/TBertuzzi/Consulta.CNPJ</PackageProjectUrl>
     <RepositoryUrl>https://github.com/TBertuzzi/Consulta.CNPJ</RepositoryUrl>
+    <PackageIconUrl>https://github.com/TBertuzzi/Consulta.CNPJ/blob/master/Resources/CNPJIcon.png?raw=true</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
