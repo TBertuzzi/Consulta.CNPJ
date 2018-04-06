@@ -1,0 +1,9 @@
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.deps.json
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.dll
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.csprojResolveAssemblyReference.cache
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.csproj.CoreCompileInputs.cache
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.AssemblyInfoInputs.cache
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.AssemblyInfo.cs
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\bin\Debug\netstandard2.0\Consulta.CNPJ.pdb
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.dll
+C:\Projetos Bertuzzi\Consulta.CNPJ\Consulta.CNPJ\obj\Debug\netstandard2.0\Consulta.CNPJ.pdb
