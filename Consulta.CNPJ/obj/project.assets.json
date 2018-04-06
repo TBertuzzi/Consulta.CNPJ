@@ -215,30 +215,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/bertuzzi/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\thiag\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bertuzzi/Dropbox/Desenvolvimento/GitHub/Consulta.CNPJ/Consulta.CNPJ/Consulta.CNPJ.csproj",
+      "projectUniqueName": "\\\\Mac\\Dropbox\\Desenvolvimento\\GitHub\\Consulta.CNPJ\\Consulta.CNPJ\\Consulta.CNPJ.csproj",
       "projectName": "Consulta.CNPJ",
-      "projectPath": "/Users/bertuzzi/Dropbox/Desenvolvimento/GitHub/Consulta.CNPJ/Consulta.CNPJ/Consulta.CNPJ.csproj",
-      "packagesPath": "/Users/bertuzzi/.nuget/packages/",
-      "outputPath": "/Users/bertuzzi/Dropbox/Desenvolvimento/GitHub/Consulta.CNPJ/Consulta.CNPJ/obj",
+      "projectPath": "\\\\Mac\\Dropbox\\Desenvolvimento\\GitHub\\Consulta.CNPJ\\Consulta.CNPJ\\Consulta.CNPJ.csproj",
+      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\Dropbox\\Desenvolvimento\\GitHub\\Consulta.CNPJ\\Consulta.CNPJ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/bertuzzi/.config/NuGet/NuGet.Config"
+        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "/Documents/Syncfusion/15.3.0.26/Xamarin/nuget": {},
-        "/Users/bertuzzi/Documents/Nuget": {},
+        "C:\\Nuget": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -258,12 +262,12 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "11.0.2"
+            "version": "[11.0.2, )"
           }
         },
         "imports": [

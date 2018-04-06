@@ -17,6 +17,8 @@
     <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
     <PackageTags>xamarin xamarin.forms cnpj consulta webforms windosforms aspnet</PackageTags>
     <PackageReleaseNotes>Initial Version</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/TBertuzzi/Consulta.CNPJ</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TBertuzzi/Consulta.CNPJ</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
