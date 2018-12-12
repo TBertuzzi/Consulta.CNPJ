@@ -28,7 +28,7 @@ namespace Consulta.CNPJ.Services
 
             try
             {
-                using (HttpResponseMessage response = await _httpClient.GetAsync(string.Format(Constantes.CNPJAPI, cnpj)))
+                using (HttpResponseMessage response = await _httpClient.GetAsync(string.Format(Constantes.CNPJAPI, cnpj)).ConfigureAwait(false))
                 {
                     if (response.IsSuccessStatusCode)
                     {
