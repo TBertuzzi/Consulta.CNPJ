@@ -16,7 +16,7 @@ O Componente utiliza o site https://www.receitaws.com.br para obter os dados. Po
 
 |Name|Info|
 | ------------------- | :------------------: |
-|ConsultaCNPJ|[![NuGet](https://img.shields.io/badge/nuget-1.0.0-blue.svg)](https://www.nuget.org/packages/Consulta.CNPJ/)|
+|ConsultaCNPJ|[![NuGet](https://img.shields.io/badge/nuget-1.0.1-blue.svg)](https://www.nuget.org/packages/Consulta.CNPJ/)|
 
 
 Exemplo
